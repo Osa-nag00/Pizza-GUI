@@ -300,8 +300,7 @@ public class PizzaGui extends JFrame {
     }  
 
 
-    /*This was my attempt to get an image/
-    logo at the top but i could figure this part out
+   
 
      public void DisplayLogo(){
         
@@ -313,5 +312,5 @@ public class PizzaGui extends JFrame {
          add(ImagePanel);
     }
 
-        */
+        
 }
