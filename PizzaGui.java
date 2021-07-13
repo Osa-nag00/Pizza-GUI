@@ -1,5 +1,3 @@
-package FinalProject;
-
 import java.awt.Color;
 import java.awt.*;
 import java.awt.event.*;
